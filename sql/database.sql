@@ -1,0 +1,2 @@
+-- Active: 1733608871982@@127.0.0.1@3306@cookpedia
+CREATE DATABASE anyway;
